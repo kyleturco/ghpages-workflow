@@ -1,0 +1,17 @@
+{
+  "name": "ghpages-workflow",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kyleturco/ghpages-workflow",
+  "authors": [
+    "Kyle Turco <kyleturco@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
